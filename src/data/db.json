@@ -1,0 +1,19 @@
+{
+  "postdata": [
+    {
+      "id": 6,
+      "Listitem": "cucumber",
+      "checked": true
+    },
+    {
+      "id": 7,
+      "Listitem": "chennai",
+      "checked": true
+    },
+    {
+      "id": 8,
+      "Listitem": "cumbum",
+      "checked": false
+    }
+  ]
+}
